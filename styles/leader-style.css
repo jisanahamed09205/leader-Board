@@ -1,0 +1,46 @@
+body{
+    background: #F3F1FF;
+}
+header{
+    background-color: #562EFF;
+}
+main{
+    max-width: 870px;
+    margin-top: 40px;
+}
+main section h3{
+    color: #562EFF;
+}
+main section p{
+    font-size: 18px;
+}
+
+.top-player{
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #D1D1D1;
+}
+.top-blogs{
+    background-color: #FFFFFF; 
+}
+.latest-course{
+    background-color: #FFFFFF; 
+    margin-top: 20px;
+}
+.blogs img{
+    width: 177px;
+}
+.navbar img {
+    width: 40px;
+}
+.player img {
+    width: 56px;
+}
+.course img{
+    width: 224px;
+}
+#navbarText{
+    margin-right: 350px;
+}
+.navbar-brand{
+    margin-left: 230px;
+}
